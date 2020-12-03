@@ -1,0 +1,14 @@
+Sasinandan Pedavegi
+17CS10032
+
+os		: ubuntu 20
+python version	: 3.7 ( conda environment )
+
+non-default libraries used : sklearn, spacy(en_core_web_md), fasttext, xgboost
+
+time for task1: 6-7mins
+time for task2: 10mins 
+
+task2 implementation:
+used spacy_en_core_web for embedding the lemmatised tweet tokens and mean of word's embeddings
+used xgboost classifier for classification
